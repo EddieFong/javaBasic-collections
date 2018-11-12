@@ -16,9 +16,17 @@ Each repository contains a gradle java project with a number of unit tests. The 
 The 4 questions are:
 
 1. What is the knowledge point of the test? Where is the offical document to the knowledge point?
+How to use array and collections of java
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html
+
 1. Why the test failed at first?
+Not implement the code
 1. Why you corrected the test that way?
+Follow the logic of the test case
+
 1. Do you have further questions on this knowledge point?
+No
 
 ## Example
 
